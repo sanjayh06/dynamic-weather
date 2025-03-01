@@ -4,7 +4,7 @@
 
 ---
 
-## **📸 Screenshot** 
+## **🖼️ Screenshot** 
 
 <img src = "https://github.com/sanjayh06/dynamic-weather/blob/main/src/assets/project1.png" width="500">
 
