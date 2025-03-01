@@ -2,6 +2,8 @@
 
 🚀 A sleek and responsive weather application that provides real-time weather updates for any city worldwide. Built using **React.js** and **Tailwind CSS**, it delivers accurate forecasts with a modern UI.
 
+---
+
 ## **📸 Screenshot** 
 
 <img src = "https://github.com/sanjayh06/dynamic-weather/blob/main/src/assets/project1.png" width="500">
