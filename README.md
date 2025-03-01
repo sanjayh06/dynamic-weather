@@ -1,8 +1,76 @@
-# React + Vite
+### **☆️ Dynamic Weather App**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A sleek and responsive weather application that provides real-time weather updates for any city worldwide. Built using **React.js** and **Tailwind CSS**, it delivers accurate forecasts with a modern UI.
 
-Currently, two official plugins are available:
+![Weather App Preview](https://your-image-link.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---  
+
+## **🔗 Live Demo**  
+👉 [Dynamic Weather App](https://dynamic-weather-sanjayh.vercel.app/)  
+
+---
+
+## **📌 Features**  
+✅ Search for any city worldwide  
+✅ Real-time weather updates  
+✅ Temperature, humidity, wind speed & weather conditions  
+✅ Responsive design for all devices  
+✅ Clean and modern UI  
+
+---
+
+## **🛠️ Tech Stack**  
+- **Frontend**: React.js, Tailwind CSS  
+- **API**: OpenWeatherMap API  
+- **Deployment**: Vercel  
+
+---
+
+## **⚡ Installation & Usage**  
+### **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/dynamic-weather-app.git
+cd dynamic-weather-app
+```
+### **Install Dependencies**  
+```bash
+npm install
+```
+### **Start the App**  
+```bash
+npm run dev
+```
+*(Make sure you have Node.js installed!)*  
+
+---
+
+## **🔑 API Key Setup**  
+1️⃣ Get your **API Key** from [OpenWeatherMap](https://openweathermap.org/)  
+2️⃣ Create a `.env` file in the root directory  
+3️⃣ Add your API key like this:  
+```env
+REACT_APP_WEATHER_API_KEY=your_api_key_here
+```
+
+---
+
+## **🚀 Deployment**  
+This project is deployed on **Vercel**. To deploy manually:  
+```bash
+vercel
+```
+
+---
+
+## **🤝 Contributing**  
+Feel free to fork the repo, raise issues, or submit PRs to improve this app!  
+
+---
+
+## **📩 Contact**  
+💼 **Portfolio**: [Your Portfolio Link](https://sanjay6911.github.io/portfolio/#)  
+🔦 **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
+📧 **Email**: your-email@example.com  
+
+---
