@@ -74,7 +74,7 @@ Feel free to fork the repo, raise issues, or submit PRs to improve this app!
 
 ## **📩 Contact**  
 💼 **Portfolio**: [Your Portfolio Link](https://sanjay6911.github.io/portfolio/#)  
-🔦 **GitHub**: [Your GitHub Profile](https://github.com/your-username)  
-📧 **Email**: your-email@example.com  
+🔦 **GitHub**: [GitHub Profile](https://github.com/sanjayh06)  
+📧 **Email**: sanjayvj666@gmail.com  
 
 ---
